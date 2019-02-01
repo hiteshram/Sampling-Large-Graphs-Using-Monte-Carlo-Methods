@@ -1,1 +1,1 @@
-# Sampling-Large-Graphs-Using-Monte-Carlo-Methods
+# Sampling Large Graphs Using Monte Carlo Methods
