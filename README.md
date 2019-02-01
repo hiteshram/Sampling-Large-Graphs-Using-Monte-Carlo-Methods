@@ -1,5 +1,6 @@
 # Sampling Large Graphs Using Monte Carlo Methods
-*Submitted in partial fulfilment of the Requirements for the award of the Degree of Bachelor of Technology in Computer Science & Engineering by
+*Submitted in partial fulfilment of the Requirements for the award of the Degree of Bachelor of Technology in Computer Science & Engineering under the guidance of Dr. M. Vishnuvardhan
+by
 K. Hitesh Ram (12003344)*
 
 ## Introduction
